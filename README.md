@@ -2,10 +2,10 @@
 
 **Project Title:** TIC TAC TOE
 
-**Student:** Krishna Grover
-**Roll No:** 590023545
-**Course:** B.Tech CSE, UPES
-**Instructor:** Dr. Tanu Singh
+**Student:** Krishna Grover <br>
+**Roll No:** 590023545 <br>
+**Course:** B.Tech CSE, UPES <br>
+**Instructor:** Dr. Tanu Singh <br>
 
 ## Project Summary
 A console-based Tic-Tac-Toe game written in C. Supports two difficulty levels: Human (heuristic) and God (Minimax unbeatable). Tracks wins, losses and draws across multiple rounds.
