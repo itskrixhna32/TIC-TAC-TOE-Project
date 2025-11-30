@@ -1,17 +1,12 @@
-     University of Petroleum and Energy Studies                         Course Code: CSEG1032                      
-                                               TIC TAC TOE
-                                          Major Project 
-          
-   C programming  
-                         
-                                                     Instructor: Dr. Tanu Singh 
- 
- 
- 
-                                                             Submitted By: Krishna Grover
-                                                SAP ID: 590023545
-                                                B.TECH-CSE
+PROJECT REPORT
+------------------------------------------------------------
 
+Course Code: CSEG1032
+Course Title: Programming in C
+Project Title: TIC TAC TOE
+Student Name : Krishna Grover 
+Sap Id : 590023545
+Semester: 1st sem (2025)
 
 
 ABSTRACT:
@@ -31,7 +26,8 @@ Key outcomes: playable game, score tracking, and a “God” mode that prioritiz
 Goal: Build a robust, user-friendly Tic Tac Toe program that enforces valid moves, detects wins/draws, tracks scores, and offers two difficulty modes. Constraints: 3×3 board, console I/O, deterministic rules, and responsive AI.
 The objective of this project  to create a simple TIC-TAC-TOE GAME using C. 
 
-     4. System Design:
+
+4. System Design:
 1.  Start → Initialize RNG and difficulty → Loop: play_game() → display board → alternate turns → check win/draw → update score → ask replay → End.
 Algorithm Overview:
 •	Win check: scan rows, columns, diagonals for three identical marks.
@@ -48,25 +44,7 @@ Algorithm Overview:
  
  
  
- 
- 
-     
-   Flowchart  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+
  
 Algorithm for Main: 
  
